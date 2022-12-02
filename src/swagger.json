@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Documentation",
+    "description": "",
+    "version": "1.0.0",
+    "contact": {
+      "email": "bernardomennndes@outlook.com"
+    }
+  },
+  "paths": {}
+}
